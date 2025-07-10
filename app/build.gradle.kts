@@ -87,7 +87,6 @@ dependencies {
 
     // Optional
     implementation(libs.coil)
-    implementation(libs.glide)
     implementation(libs.timber)
 
     // Navigation
