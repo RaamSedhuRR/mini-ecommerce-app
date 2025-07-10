@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             MiniEcommerceAppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Raam Sedhu RR",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
